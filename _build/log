@@ -1,0 +1,16 @@
+# dune exec riscv-assembler
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/dennisgega/.cache/dune/db
+# Workspace root: /Users/dennisgega/Code/riscv-assembler
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/dennisgega/.opam/default/bin/ocamlc.opt -config > /var/folders/1_/ypkzk8ws6l538btvhm3fmcgm0000gn/T/dune_225ff0_output

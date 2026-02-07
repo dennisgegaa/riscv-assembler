@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/riscv-assembler/META"
+  "_build/install/default/lib/riscv-assembler/dune-package"
+  "_build/install/default/lib/riscv-assembler/opam"
+]
+bin: [
+  "_build/install/default/bin/riscv-assembler"
+]
+doc: [
+  "_build/install/default/doc/riscv-assembler/README.md"
+]

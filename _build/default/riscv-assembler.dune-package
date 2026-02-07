@@ -1,0 +1,7 @@
+(lang dune 3.21)
+(name riscv-assembler)
+(sections (lib .) (bin ../../bin) (doc ../../doc/riscv-assembler))
+(files
+ (lib (META dune-package opam))
+ (bin (riscv-assembler))
+ (doc (README.md)))

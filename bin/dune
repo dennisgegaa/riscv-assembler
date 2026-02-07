@@ -1,0 +1,4 @@
+(executable
+ (public_name riscv-assembler)
+ (name main)
+ (libraries riscv_assembler))
